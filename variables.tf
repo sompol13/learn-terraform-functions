@@ -20,10 +20,10 @@ variable "aws_region" {
 
 variable "user_name" {
   description = "The user creating this infrastructure"
-  default     = "terraform"
+  default     = "sompol13username"
 }
 
 variable "user_department" {
   description = "The organization the user belongs to: dev, prod, qa"
-  default     = "learn"
+  default     = "appdepartment"
 }
