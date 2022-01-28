@@ -35,5 +35,7 @@ You will use the `lookup` function to dynamically apply the region-appropriate A
 
 > Note: It may take up to five minutes for your instance to be fully built and configured. If you receive a public key error message, wait a couple minutes before trying again.
 
+<img width="1592" alt="Screen Shot 2565-01-28 at 20 30 38" src="https://user-images.githubusercontent.com/33342822/151555315-f9a2d46a-91e5-4a8c-8f38-b3ba5ca726fd.png">
+
 ### Reference
 https://learn.hashicorp.com/tutorials/terraform/functions
