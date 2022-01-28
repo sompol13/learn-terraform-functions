@@ -8,5 +8,9 @@ In this tutorial, you create an EC2 instance running a pre-built webapp. You wil
 - Open the `variables.tf` file in your editor to find the variables associated you will assign to the `name` and `department` keys in your template file.
 - Add the `user_data` attribute to the `aws_instance` resource block.
 
+### Initialize and apply the Terraform configuration
+- `terraform init`
+- `terraform apply`
+
 ### Reference
 https://learn.hashicorp.com/tutorials/terraform/functions
